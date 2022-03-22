@@ -8,10 +8,15 @@ Kelas : TI.20.B1<br>
 <br>
 Melanjutkan dari repository sebelumnya, sekarang saya akan membuat untuk langkah-langkah html & CSS
 <br>
-##1. Membuat document HTML
+1.   Membuat document HTML
 
 ![Pict](Pict/Input_1.membuat_dokumen_HTML.PNG)
 <br>
 
+Output yang dihasilkan <br>
+![Pict](Pict/Output_1.membuat_dokumen_HTML.PNG)
+<br>
+
+2.   
 
 
