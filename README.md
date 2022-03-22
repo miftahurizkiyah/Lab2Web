@@ -10,6 +10,7 @@ Melanjutkan dari repository sebelumnya, sekarang saya akan membuat untuk langkah
 <br>
 ##1. Membuat document HTML
 
-![Git Pict](SS/Input_1.membuat_dokumen_HTML.PNG)
+![Picture](SS/Inoput_5.Memasukan_link.PNG)
+
 
 
