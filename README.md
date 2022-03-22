@@ -9,5 +9,5 @@ Kelas : TI.20.B1<br>
 Melanjutkan dari repository sebelumnya, sekarang saya akan membuat untuk langkah-langkah html & CSS
 <br>
 ##1. Membuat document HTML
-![Git Pict](SS/Input_1.membuat_dokumen_HTML)
+![Git Pict](SS/Input_1.membuat_dokumen_HTML.PNG)
 
