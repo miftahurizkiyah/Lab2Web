@@ -34,7 +34,7 @@ Output yang dihasilkan <br>
 
 Output yang dihasilkan <br>
 
-![Pict](pict/Output_3.Menambahkan_Inline_CSS.PNG)
+![Pict](Pict/Output_3.Menambahkan_Inline_CSS.PNG)
 
 ## 4. Membuat CSS Eksternal
 
