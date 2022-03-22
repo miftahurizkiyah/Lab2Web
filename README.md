@@ -63,7 +63,7 @@ Pertanyaan dan Tugas<br>
 1. Style_eksternal.css
 <br>
 
-2. <h1> heading yang digunakan untuk penulisan judul utama dari document. #intro h1 untuk judul isi
+2. h1 iaalah heading yang digunakan untuk penulisan judul utama dari document. #intro h1 untuk judul isi
 <br>
 
 3. Deklarasi yang ditampilkan adalah internal css<br>
@@ -72,6 +72,7 @@ Pertanyaan dan Tugas<br>
 
 4. Deklarasi Pada CSS
 
+## Thank You
 
 
 
